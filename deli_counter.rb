@@ -26,4 +26,3 @@ def now_serving(katz_deli)
 # binding.pry
   end
 end
-end

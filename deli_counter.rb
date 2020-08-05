@@ -22,8 +22,7 @@ def now_serving(katz_deli)
   if katz_deli.length == 0
     puts "There is nobody waiting to be served!"
   else 
-    new_array = [other_deli]
-     "Currently serving #{other_deli.shift(1)}"
+    puts "Currently serving #{.shift(1)}"
 # binding.pry
   end
 end

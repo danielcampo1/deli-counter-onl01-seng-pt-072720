@@ -23,6 +23,7 @@ def now_serving(katz_deli)
     puts "There is nobody waiting to be served!"
   else 
     puts "currently serving #{katz_deli.shift(1)}"
-binding.pry
+# binding.pry
   end
+end
 end
